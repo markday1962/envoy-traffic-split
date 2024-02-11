@@ -1,4 +1,4 @@
-vice Bpackage main
+package main
 
 import (
     "log"
